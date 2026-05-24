@@ -1,0 +1,12 @@
+{
+  "name": "hyperlane-warp-route-token",
+  "version": "1.0.0",
+  "description": "Hyperlane Warp Route standard reference implementation",
+  "main": "deployWarp.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@hyperlane-xyz/core": "^5.0.0",
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
